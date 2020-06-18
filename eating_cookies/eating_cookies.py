@@ -23,8 +23,6 @@ def eating_cookies(n, cache=None):
 
             return cache[n]
 
-    pass
-
 
 if __name__ == "__main__":
     # Use the main function here to test out your implementation
